@@ -1,0 +1,63 @@
+header,
+footer {
+	height: 60px;
+	background-color: red;
+}
+
+main {
+	margin: 16px 0;
+	overflow: auto;
+}
+
+.block {
+	float: left;
+}
+
+#top,#side {
+	height: 330px;
+	padding: 2%;
+}
+
+#top {
+	background-color: #00BDF7;
+	width: 60%;
+}
+
+#side {
+	background-color: #F6FF00;
+	width: 32%;
+}
+
+.inside {
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+
+#orange {
+	background-color: #FE5000;
+}
+
+#purple1 {
+	background-color: #8F75BE;
+}
+
+#green1 {
+	background-color: #00C448;
+}
+
+#bottom {
+	margin-top: 2%;
+	padding: 2%;
+	background-color: #FF86BF;
+	width: 96%;
+	height: 260px;
+}
+
+#purple2 {
+	background-color: #8F75BE;
+}
+
+#green2 {
+	background-color: #00C448;
+}

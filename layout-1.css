@@ -1,0 +1,29 @@
+header,
+footer {
+	height: 60px;
+	background-color: red;
+}
+
+main {
+	margin: 16px 0;
+	overflow: auto;
+
+}
+
+.column {
+	height: 600px;
+	width: 33.33%;
+	float: left;
+}
+
+.column#blue {
+	background-color: #00BDF7;
+}
+
+.column#green {
+	background-color: #00C448;
+}
+
+.column#yellow {
+	background-color: #F6FF00;
+}
